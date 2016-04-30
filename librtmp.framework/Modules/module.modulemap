@@ -1,0 +1,6 @@
+framework module librtmp {
+  umbrella header "librtmp.h"
+
+  export *
+  module * { export * }
+}
